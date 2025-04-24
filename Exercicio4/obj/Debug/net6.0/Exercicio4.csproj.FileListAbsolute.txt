@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\IF-IFELSE-ELSEIF\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll
