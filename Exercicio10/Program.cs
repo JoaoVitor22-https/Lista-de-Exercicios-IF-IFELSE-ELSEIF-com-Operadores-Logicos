@@ -5,10 +5,10 @@
         int idade = 17;
         bool comportamentoSuspeito = true;
 
-        if ( idade >= 17 && comportamentoSuspeito == true)
+        if (idade >= 17 && comportamentoSuspeito == true)
         {
             Console.WriteLine("Monitorar");
         }
-       
+
     }
 }
